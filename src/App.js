@@ -12,12 +12,7 @@ function App() {
           funktioniert.
         </p>
       </header>
-      <Component
-        name="Theresa"
-        title="UI/UX Design"
-        topic="Namensgebung von NGC"
-        meal="Tofu mit Gemüse und Reis"
-      />
+      <Component name="-" title="-" topic="-" meal="-" />
     </div>
   );
 }
