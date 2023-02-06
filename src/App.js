@@ -13,6 +13,18 @@ function App() {
         </p>
       </header>
       <Component name="-" title="-" topic="-" meal="-" />
+      <Component name="-" title="-" topic="-" meal="-" />
+      <Component name="-" title="-" topic="-" meal="-" />
+      <Component name="-" title="-" topic="-" meal="-" />
+      <Component name="-" title="-" topic="-" meal="-" />
+      <Component name="-" title="-" topic="-" meal="-" />
+      <Component name="-" title="-" topic="-" meal="-" />
+      <Component name="-" title="-" topic="-" meal="-" />
+      <Component name="-" title="-" topic="-" meal="-" />
+      <Component name="-" title="-" topic="-" meal="-" />
+      <Component name="-" title="-" topic="-" meal="-" />
+      <Component name="-" title="-" topic="-" meal="-" />
+      <Component name="-" title="-" topic="-" meal="-" />
     </div>
   );
 }
