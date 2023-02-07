@@ -13,6 +13,7 @@ function App() {
         </p>
       </header>
       <Component name="Thersa" title="UI/UX" topic="Cention" meal="Tofu" />
+      <Component name="Thersea" title="UI/UX" topic="Cention" meal="Tofu" />
     </div>
   );
 }
