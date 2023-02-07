@@ -12,7 +12,7 @@ function App() {
           funktioniert.
         </p>
       </header>
-      <Component name="-" title="-" topic="-" meal="-" />
+      <Component name="Jan" title="Dr.ama." topic="Drama baby, drama!" meal="Doenerstange" />
     </div>
   );
 }
